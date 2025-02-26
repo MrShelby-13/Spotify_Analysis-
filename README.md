@@ -1,2 +1,8 @@
 # Spotify_Analysis-
-Spotify_Analysis is a Power BI based project. The dataset and the Power BI file will be there in the repo. A text file will also be there stating all the steps that I performed during my project.  
+
+Author: Aditya Dayal 
+Data_Source : Kaggle (https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download) - Thanks !! 
+
+----------------------------*--------------------------------------------------*-----------------------------------------------
+
+
